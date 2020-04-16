@@ -1,6 +1,16 @@
 # BlockOut2
 A 3D Tetris game called BlockOut from 1989 
 ------------------------------------------------------
+Hi.
+
+I need help to make this to a online game for browsers and then be able to upload points to a global database for ranking.
+Can anybody help me?
+Can someone help me set this up on a online environment so we can code this together?
+
+MagI
+
+
+--------------------------------
 Description
 ===========
 
