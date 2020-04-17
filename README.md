@@ -5,7 +5,10 @@ Hi.
 
 I need help to make this to a online game for browsers and then be able to upload points to a global database for ranking.
 Can anybody help me?
-Can someone help me set this up on a online environment so we can code this together?
+Here is a link to the C++ code in a online editor.
+https://repl.it/@jlivingstonsg/BlockOut2
+
+Can you help me code it to a online game with a online score ranking database?
 
 MagI
 
