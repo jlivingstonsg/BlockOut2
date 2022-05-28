@@ -3,8 +3,8 @@ A 3D Tetris game called BlockOut from 1989
 ------------------------------------------------------
 Hi.
 
-I need help to make this to a online game for browsers and then be able to upload points to a global database for ranking.
-Can anybody help me?
+I need help to make this to a online game for browsers and then be able to upload points to a global database for ranking.   <br>
+Can anybody help me?   <br>
 Here is a link to the C++ code in a gitpod online editor.  <br>
 https://gitpod.io/#https://gitlab.com/andli/BlockOut2-original-bl25-src/-/tree/main/BL_SRC/BlockOut      <br>  <br>
 
